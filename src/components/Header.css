@@ -1,0 +1,38 @@
+header{
+    position:absolute;
+    z-index: 999;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 50px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding:0 40px ;
+}
+.header--logo{
+    height:25px;
+    
+    
+    
+    
+}
+.header--logo img{
+       height: 100%;
+       border-radius: 1px;
+       
+       
+
+}
+.header--user{
+    height: 45px;
+    padding:0 1230px;
+    top: 50px;
+     
+}
+.header--user img {
+    height: 100%;
+    border-radius: 3px;
+    
+
+}
